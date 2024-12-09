@@ -1,4 +1,4 @@
-
+#Operacion para calcular el monto a pagar, si con descuento o no
 montoCompra = float(input("Ingrese el monto de la compra: "))
 
 if montoCompra >= 100:
